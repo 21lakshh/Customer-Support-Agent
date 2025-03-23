@@ -50,6 +50,8 @@ The **Customer Support Agent** is an AI-powered support system built using **Lan
 ("escalate", escalate)
 ```
 
+![Workflow](/workflow/diagram)
+
 ## Technologies Used
 - **LangChain**: For conversational AI capabilities.
 - **LangGraph**: For creating the structured customer support workflow.
